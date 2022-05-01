@@ -2,6 +2,8 @@
 
 ## Title: Student Performance Analyzer 
 
+### <i>Contributors: Axay Goghari AU1940269 and Hinanshi Suthar AU1940266</i>
+
 Problem : Classification of the students based on the large amount of survey data/school of
 university data which is very hard to do in software like Excel.
 
